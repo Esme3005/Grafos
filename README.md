@@ -69,7 +69,7 @@ Presiona Ejecutar para ver el algoritmo en acción.
 
 Usa Resetear para volver al estado inicial.
 
-Objetivo del proyecto
+### Objetivo del proyecto
 
 Visualizar algoritmos clásicos de grafos.
 
